@@ -47,7 +47,11 @@
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
-<h2>📡 Where to find me</h3>
+<h2>📈 My Stats:</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<h2>📡 Where To Find Me:</h3>
 <p>
   <a href="https://github.com/blusoso" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sopita-jullaprasertsak-2748171aa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -55,79 +59,6 @@
   <a href="https://medium.com/@bluuso" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 19 Contributions in the Year 2022
- > 
-> 📦 658.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 12 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-🌃 Evening    15 commits     ██████████████████████░░░   88.24% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     17 commits     █████████████████████████   100.0% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83% 
-PHP                      8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-
-```
-
-
-
- Last Updated on 30/06/2022 14:21:02 UTC
-<!--END_SECTION:waka-->
-
-<h2>❤️ Support Me:</h3>
+<h2>💖 Support Me:</h3>
 <p><a href="https://ko-fi.com/bluso"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bluso" /></a></p>
+<p>Thanks! ❤️</p>
