@@ -2,7 +2,7 @@
 
 <p>A passionate frontend developer from <b>📍 Thailand</b></p>
 
-<h2>👩🏻 About Me:</h3>
+<h2>👩🏻 About Me:</h2>
 <p>
   
 - 🔭 I’m currently working on **something cool and specialists**
@@ -47,8 +47,9 @@
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
-<h2>📈 My Stats:</h3>
+<h2>📈 My Stats:</h2>
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
@@ -122,7 +123,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
  Last Updated on 30/06/2022 14:46:18 UTC
 <!--END_SECTION:waka-->
 
-<h2>📡 Where To Find Me:</h3>
+<h2>📡 Where To Find Me:</h2>
 <p>
   <a href="https://github.com/blusoso" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sopita-jullaprasertsak-2748171aa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
