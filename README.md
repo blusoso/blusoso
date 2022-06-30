@@ -49,6 +49,77 @@
 
 <h2>📈 My Stats:</h3>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2024%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 19 Contributions in the Year 2022
+ > 
+> 📦 658.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 12 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+🌃 Evening    18 commits     ██████████████████████░░░   90.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     20 commits     █████████████████████████   100.0% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83% 
+PHP                      8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
+
+
+
+ Last Updated on 30/06/2022 14:46:18 UTC
 <!--END_SECTION:waka-->
 
 <h2>📡 Where To Find Me:</h3>
