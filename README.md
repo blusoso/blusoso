@@ -9,16 +9,49 @@
   
 - 🌱 I’m currently learning **Three.js**
   
-- 💬 Ask me about **Javascript, React, Next.js, Vue.js, Typescript,PHP, Laravel, HTML, CSS**
+- 💬 Ask me about **Javascript, React, Next.js, Vue.js, Typescript, HTML, CSS, Tailwind, Styled Component**
   
 - 📫 How to reach me **sopita.julla@gmail.com**
   
-- ⚡ Fun fact **I love create a cute 3d model**
+- ⚡ Fun fact **I love create a cute 3d model and my full name is Sopita Jullaprasertsak. So long, right? 😆**
 </p>
 
 <h2>🛠️ Technologies and Tools I use:</h3>
-<p">
-  
+<p>
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
 </p>
 
 <h2>❤️ Support Me:</h3>
