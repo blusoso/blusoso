@@ -1,18 +1,25 @@
-<h1 align="left">Hi there <img src="110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" />, I'm Fah or you can call me Maisy!</h1>
+<h1>Hi there 👋🏻, I'm Fah / Maisy!</h1>
 
-<p align="left">A passionate frontend developer from <b> Thailand</b></p>
+<p>A passionate frontend developer from <b> Thailand</b></p>
 
-<h1 align="left">👩🏻 About Me:</h3>
+<h2>👩🏻 About Me:</h3>
+<p>
+  
 - 🔭 I’m currently working on **something cool and specialists**
+  
 - 🌱 I’m currently learning **Three.js**
+  
 - 💬 Ask me about **Javascript, React, Next.js, Vue.js, Typescript,PHP, Laravel, HTML, CSS**
+  
 - 📫 How to reach me **sopita.julla@gmail.com**
+  
 - ⚡ Fun fact **I love create a cute 3d model**
+</p>
 
-<h1 align="left">🛠️ Technologies and Tools I use:</h3>
-<p align="left">
+<h2>🛠️ Technologies and Tools I use:</h3>
+<p">
   
 </p>
 
-<h1 align="left">❤️ Support Me:</h3>
-<p>![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)</p>
+<h2>❤️ Support Me:</h3>
+<p><a href="https://ko-fi.com/bluso"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bluso" /></a></p>
