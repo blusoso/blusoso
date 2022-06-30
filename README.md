@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on **something cool and specialists**
   
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **No-code/Low-code tools**
   
 - 💬 Ask me about **Javascript, React, Next.js, Vue.js, Typescript, HTML, CSS, Tailwind, Styled Component**
   
