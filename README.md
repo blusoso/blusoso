@@ -55,5 +55,8 @@
   <a href="https://medium.com/@bluuso" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2>❤️ Support Me:</h3>
 <p><a href="https://ko-fi.com/bluso"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bluso" /></a></p>
