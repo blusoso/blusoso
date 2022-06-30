@@ -1,6 +1,6 @@
 <h1>Hi there 👋🏻, I'm Fah / Maisy!</h1>
 
-<p>A passionate frontend developer from <b> Thailand</b></p>
+<p>A passionate frontend developer from <b>📍 Thailand</b></p>
 
 <h2>👩🏻 About Me:</h3>
 <p>
