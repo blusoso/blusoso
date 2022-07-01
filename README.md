@@ -50,6 +50,11 @@
 <h2>📈 My Stats:</h2>
 <p>Generated on 30/06/2022</p>
 
+<details>
+<summary>
+<strong>Click this to show my Github stats</strong>
+</summary>
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -127,6 +132,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
  Last Updated on 01/07/2022 02:11:50 UTC
 <!--END_SECTION:waka-->
+</details>
 
 <h2>📡 Where To Find Me:</h2>
 <p>
